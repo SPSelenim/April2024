@@ -13,6 +13,7 @@ public class FirstTest {
 	  System.out.println("Par: 230324Test1201 C");
 	  System.out.println("SP: 230324Test1201");
 	  System.out.println("Par: 16:44");
+	  System.out.println("par : ----");
 	  
   }
 }
