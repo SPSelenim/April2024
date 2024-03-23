@@ -6,5 +6,7 @@ public class FirstTest {
   @Test
   public void f() {
 	  System.out.println("230324Test11 12");
+	  System.out.println("230324Test1119");
+	  
   }
 }
