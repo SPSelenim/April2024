@@ -10,7 +10,5 @@ public class FirstTest {
 	  System.out.println("230324Test1120");
 	  System.out.println("Par: 230324Test1132");
 	  
-	  
-	  
   }
 }
