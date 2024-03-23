@@ -17,7 +17,10 @@ public class FirstTest {
 	  System.out.println("10. par : ----1");
 	  System.out.println("11. par : ----1");
       System.out.println("12. SP : ----1");
-      System.out.println("13. SP : ----1");
+      System.out.println("13. Par : ----1 SATEE");
+
+      System.out.println("13. SP : ----1SATI");
+
 
 	  
   }
